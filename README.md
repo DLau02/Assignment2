@@ -43,7 +43,7 @@ To run the Jar files:
     Outputs are already in Assignment1-DHL190004:
         Open folder of corresponding problem i.e. for 1C Assignment_2_1C
         Click on output i.e. output2_1C
-        Open text file output_ to see the results for the corresponding problem number i.e. output2_1C
+        Open text file output to see the results for the corresponding problem number i.e. part-r-00000
 
     To find Java source code files:
         Open folder of corresponding problem i.e. for 1C Assignment_2_1C
