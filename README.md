@@ -14,7 +14,7 @@ To run the Jar files:
     Set a directory in your HDFS
         $ hdfs dfs -mkdir
 
-    Put your input_hw1.txt file in the directory
+    Put your city_temperature.csv and country-list.csv file in the directory
         Change cd to Directory where Assignment2-DHL190004 is stored
         $ hdfs dfs -put <filename in local file system/source>
 
