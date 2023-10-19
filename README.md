@@ -26,19 +26,19 @@ To run the Jar files:
         To run each JAR file:
             For 1A
                 Run: $ cd /Assignment_2_1A
-                Next Run: $ hadoop jar Assignment2_1A.jar Assignment2_1A /user/daniel/input/input_hw1.txt /output2A
+                Next Run: $ hadoop jar Assignment2_1A.jar Assignment2_1A /user/daniel/input/city_temperature.csv /output2_1A
             For 1B
                 Run : $ cd ..
                 Next Run: $ cd /Assignment_2_1B
-                Next Run: $ hadoop jar Assignment2_1B.jar Assignment2_1B /user/daniel/input/input_hw1.txt /output2B
+                Next Run: $ hadoop jar Assignment2_1B.jar Assignment2_1B /user/daniel/input/city_temperature.csv /output2_1B
             For 1C
                 Run : $ cd ..
                 Run: $ cd /Assignment_2_1C
-                Next Run: $ hadoop jar Assignment2_1C.jar Assignment2_1C /user/daniel/input/input_hw1.txt /output2C
+                Next Run: $ hadoop jar Assignment2_1C.jar Assignment2_1C /user/daniel/input/city_temperature.csv /output2_1C
             For 1D
                 Run : $ cd ..
                 Run: $ cd /Assignment_2_1D
-                Next Run: $ hadoop jar Assignment2_1D.jar Assignment2_1D /user/daniel/input/input_hw1.txt /output2C
+                Next Run: $ hadoop jar Assignment2_1D.jar Assignment2_1D /user/daniel/input/city_temperature.csv /user/daniel/input/country-list.csv /output2_1C
 
     Outputs are already in Assignment1-DHL190004:
         Open folder of corresponding problem i.e. for 1C Assignment_2_1C
